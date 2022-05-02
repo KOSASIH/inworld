@@ -1,3 +1,5 @@
+# Welcome to InWorld
+
 This application aims to help solve global problems related to forest conservation and the environment. All contributors are required to follow the rules and applicable laws, with the hope that InWorld can be one of the useful technological innovations to create a better life, today, tomorrow, and in the future.
 
 # Instructions
