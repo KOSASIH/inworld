@@ -10,6 +10,7 @@ go to this link [Install Here ](https://auth.monday.com/oauth2/authorize?client_
 
 
 or you can [Instal on Monday](https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install)
+ 
  # Site
  
  In addition to the explanation above, if you already have a Monday account you can add it by clicking the link below:
