@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to InWorld pages.
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/inworld/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
