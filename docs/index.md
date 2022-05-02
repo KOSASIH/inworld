@@ -1,37 +1,27 @@
 ## Welcome to InWorld pages.
 
-You can use the [editor on GitHub](https://github.com/KOSASIH/inworld/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# InWorld
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A smart application to help forest conservation by utilizing and managing data, images, and videos from drones and field surveys. This application is useful as a data driven as a reference with a functions as decision maker
 
-### Markdown
+# Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To contribute and develop the project, please fork this repository or follow the link below:
 
-```markdown
-Syntax highlighted code block
+go to this link [Install Here ](https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+or you can [Instal on Monday](https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install)
+ # Site
+ 
+ In addition to the explanation above, if you already have a Monday account you can add it by clicking the link below:
+ 
+<a href="https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install">
+                <img
+                  alt="Add to monday.com"
+                  height="42"
+                  src="https://dapulse-res.cloudinary.com/image/upload/f_auto,q_auto/remote_mondaycom_static/uploads/Tal/4b5d9548-0598-436e-a5b6-9bc5f29ee1d9_Group12441.png"
+                />
+              </a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KOSASIH/inworld/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you don't have account, you can register [here](https://auth.monday.com/users/sign_up_new#soft_signup_from_step) 
