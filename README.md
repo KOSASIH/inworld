@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/KOSASIH/inworld/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/inworld/actions/workflows/codeql-analysis.yml)
+
 # InWorld
 
 A smart application to help forest conservation by utilizing and managing data, images, and videos from drones and field surveys. This application is useful as a data driven as a reference with a functions as decision maker
