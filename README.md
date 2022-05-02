@@ -6,12 +6,14 @@ A smart application to help forest conservation by utilizing and managing data, 
 
 # Instructions
 
-To contribute and develop the project, please fork this repository or follow the link below:
+To contribute and develop the project, 
 
-go to this link [Install Here ](https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install)
+1. please fork this repository and than follow the link below:
 
+2. go to this link [Install Here ](https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install)
 
-or you can [Instal on Monday](https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install)
+3. or you can [Instal on Monday](https://auth.monday.com/oauth2/authorize?client_id=b5b59217b3b9289db2b88e9eb5e699f5&response_type=install)
+ 
  # Site
  
  In addition to the explanation above, if you already have a Monday account you can add it by clicking the link below:
