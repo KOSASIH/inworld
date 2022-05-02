@@ -1,8 +1,4 @@
-## Welcome to InWorld pages.
-
-# InWorld
-
-A smart application to help forest conservation by utilizing and managing data, images, and videos from drones and field surveys. This application is useful as a data driven as a reference with a functions as decision maker
+This application aims to help solve global problems related to forest conservation and the environment. All contributors are required to follow the rules and applicable laws, with the hope that InWorld can be one of the useful technological innovations to create a better life, today, tomorrow, and in the future.
 
 # Instructions
 
